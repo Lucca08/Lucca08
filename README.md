@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Lucca08/Lucca08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div>
   <a href="https://github.com/Lucca08
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucca08&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
