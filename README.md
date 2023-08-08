@@ -9,11 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div>
-  <a href="https://github.com/Lucca08">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucca08&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca08&layout=compact&langs_count=7&theme=dark%22/%3E">
 
 <div>
+<a href="https://github.com/Lucca08">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Lucca08i&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Lucca08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
