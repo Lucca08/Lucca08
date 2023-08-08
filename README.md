@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/Lucca08%22%3E
+  <a href="https://github.com/Lucca08
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucca&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaContu&layout=compact&langs_count=7&theme=dark%22/%3E
 </div>
