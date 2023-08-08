@@ -12,7 +12,7 @@
 <a href="https://github.com/Lucca08">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca08&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucca08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-![Snake animation](https://github.com/Lucca08/Lucca08/blob/output/github-contribution-grid-snake.svg)
+<![Snake animation](https://github.com/Lucca08/Lucca08/blob/output/github-contribution-grid-snake.svg)/>
 </div>
 
 
