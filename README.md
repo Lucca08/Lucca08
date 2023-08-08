@@ -13,14 +13,6 @@
   <a href="https://github.com/Lucca08">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucca08&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca08&layout=compact&langs_count=7&theme=dark%22/%3E">
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Lucca-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg%22%3E">
-<img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E">
-<img align="center" alt="Lucca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg%22%3E">
-<img align="center" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E">
-<img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E">
-<img align="center" alt="Lucca-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg%22%3E">
-</div>
+
 
 
