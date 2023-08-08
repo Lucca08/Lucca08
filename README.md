@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning python
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 😐❤️🐕‍🦺
 <div>
 <a href="https://github.com/Lucca08">
