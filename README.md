@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile🫠
+## My name is Lucca😎
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
